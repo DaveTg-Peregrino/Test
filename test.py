@@ -1,4 +1,2 @@
-print("Hello, World!")
-
-print ("I'm testing python again")
-
+def sum_two_numbers(a, b):
+    return a + b
